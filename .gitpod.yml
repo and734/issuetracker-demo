@@ -2,7 +2,6 @@ image: gitpod/workspace-node-lts
 
 ports:
   - port: 3000
-    onOpen: open-preview
     visibility: public
 
 tasks:
